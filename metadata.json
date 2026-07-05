@@ -1,0 +1,6 @@
+{
+  "name": "Free Online Calling",
+  "description": "An intuitive, unlimited free online calling app that allows you to dial any virtual contact, create customized calling personas, and talk with real-time interactive voice/chat AI assistants completely for free!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
